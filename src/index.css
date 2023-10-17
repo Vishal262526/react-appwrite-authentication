@@ -1,0 +1,24 @@
+.navbar-brand {
+  font-size: 1.8em;
+  font-weight: bolder;
+}
+
+.nav-item {
+  margin-left: 1.3rem;
+  font-size: 20px;
+}
+
+.login-form {
+  max-width: 500px;
+  margin: 2rem auto;
+  /* background: grey; */
+  border: 1px solid black;
+}
+
+.loading{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
